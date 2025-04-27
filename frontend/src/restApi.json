@@ -1,0 +1,179 @@
+{
+    "data": [
+      {
+        "ourQualities": [
+          {
+            "id": 1,
+            "image": "./quality_food.svg",
+            "title": "QUALITY FOOD",
+            "description": "We believe in delivering meals prepared with the freshest ingredients and traditional recipes."
+          },
+          {
+            "id": 2,
+            "image": "./super_taste.svg",
+            "title": "SUPER TASTE",
+            "description": "Our dishes are crafted to give you a burst of authentic flavors with every bite you take."
+          },
+          {
+            "id": 3,
+            "image": "./fast_delivery.svg",
+            "title": "FAST DELIVERY",
+            "description": "Timely service with delicious food is our promise to every customer, every day."
+          }
+        ],
+        "dishes": [
+          {
+            "id": 1,
+            "image": "./dinner1.jpeg",
+            "title": "ROASTED LAMB RUMP",
+            "category": "Dinner"
+          },
+          {
+            "id": 2,
+            "image": "./dinner2.png",
+            "title": "CITRUS CURED SALMON",
+            "category": "Dinner"
+          },
+          {
+            "id": 3,
+            "image": "./breakfast1.png",
+            "title": "PAN SEARED SEA BASS",
+            "category": "Breakfast"
+          },
+          {
+            "id": 4,
+            "image": "./dinner3.png",
+            "title": "STUFFED STRAWBERRY",
+            "category": "Dinner"
+          },
+          {
+            "id": 5,
+            "image": "./lunch1.png",
+            "title": "BEEF BURGER MEAL",
+            "category": "Lunch"
+          },
+          {
+            "id": 6,
+            "image": "./dinner4.png",
+            "title": "MUSSELS SOUP",
+            "category": "Dinner"
+          },
+          {
+            "id": 7,
+            "image": "./dinner5.png",
+            "title": "ITALIAN SPAGHETTI",
+            "category": "Dinner"
+          },
+          {
+            "id": 8,
+            "image": "./dinner6.png",
+            "title": "GRILLED FISH",
+            "category": "Dinner"
+          }
+        ],
+        "team": [
+          {
+            "id": 1,
+            "image": "./team_member_1.png",
+            "name": "Sushil Ghimire",
+            "designation": "Founder & Head Chef",
+            "description": "Sushil brings years of culinary experience, blending traditional Nepali flavors with modern techniques."
+          },
+          {
+            "id": 2,
+            "image": "./team_member_2.png",
+            "name": "Ramesh Thapa",
+            "designation": "Sous Chef",
+            "description": "With a passion for taste and presentation, Ramesh ensures every dish looks as good as it tastes."
+          },
+          {
+            "id": 3,
+            "image": "./team_member_3.png",
+            "name": "Bikash Karki",
+            "designation": "Fast Food Chef",
+            "description": "Bikash specializes in preparing quick, tasty meals without compromising on quality."
+          },
+          {
+            "id": 4,
+            "image": "./team_member_4.png",
+            "name": "Anil Shrestha",
+            "designation": "Senior Chef",
+            "description": "Anil’s creative menus and attention to detail bring a unique twist to every meal we serve."
+          }
+        ],
+        "testimonials": [
+          {
+            "id": 1,
+            "image": "./review1.png",
+            "description": "The best dining experience I've ever had. The food, the service, and the ambiance were all top-notch. Thank you!",
+            "rating": 4,
+            "userName": "Aayusha Sharma"
+          },
+          {
+            "id": 2,
+            "image": "./review2.png",
+            "description": "Absolutely loved the fast service and the amazing flavors. Highly recommend to everyone looking for quality meals!",
+            "rating": 4.5,
+            "userName": "Pratiksha Gurung"
+          },
+          {
+            "id": 3,
+            "image": "./review3.png",
+            "description": "Incredible dishes with authentic taste! A place where tradition meets taste. Will surely visit again.",
+            "rating": 5,
+            "userName": "Sagar Adhikari"
+          }
+        ],
+        "who_we_are": [
+          {
+            "id": 1,
+            "number": "14",
+            "title": "Restaurants"
+          },
+          {
+            "id": 2,
+            "number": "20",
+            "title": "Chef In Kitchen"
+          },
+          {
+            "id": 3,
+            "number": "08",
+            "title": "Years Of Experience"
+          },
+          {
+            "id": 4,
+            "number": "200",
+            "title": "Food Dishes"
+          }
+        ],
+        "navbarLinks": [
+          {
+            "id": 1,
+            "title": "HOME",
+            "link": "heroSection"
+          },
+          {
+            "id": 2,
+            "title": "ABOUT US",
+            "link": "about"
+          },
+          {
+            "id": 3,
+            "title": "SERVICES",
+            "link": "qualities"
+          },
+          {
+            "id": 4,
+            "title": "TEAM",
+            "link": "team"
+          },
+          {
+            "id": 5,
+            "title": "RESERVATION",
+            "link": "reservation"
+          }
+        ]
+      }
+    ]
+  }
+  
